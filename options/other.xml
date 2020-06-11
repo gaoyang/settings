@@ -1,0 +1,47 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="116-83-31-255,,,169-169-169-255,,,31-55-127-255" />
+    <property name="Debug.Allow.Typing" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="GuidGeneratorDialog.Format" value="0" />
+    <property name="GuidGeneratorDialog.Uppercase" value="true" />
+    <property name="InstalledPluginsSearchHistory" value="api temp&#10;web&#10;we&#10;w&#10;http" />
+    <property name="KEYMAP" value="add se&#10;Next&#10;same&#10;code cl&#10;code c" />
+    <property name="MarketplacePluginsSearchHistory" value="api temp&#10;api tem&#10;api&#10;web api&#10;web" />
+    <property name="Non.Modal.Commit.Single.Click2" value="true" />
+    <property name="Non.Modal.Commit4" value="true" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="RD.Init.Cfg.2" value="true" />
+    <property name="RD.Init.DialogShown.Ide" value="true" />
+    <property name="RD.Light.Edit.Disabled" value="true" />
+    <property name="RD.Switch.Laf" value="true" />
+    <property name="RESTClient.httpMethod" value="GET&#10;POST&#10;PUT&#10;PATCH&#10;DELETE&#10;HEAD&#10;OPTIONS" />
+    <property name="RegistryRecentKeys" value="ide.suppress.double.click.handler" />
+    <property name="Rider.Pin.Item.Was.Executed" value="true" />
+    <property name="RiderNuGetManagementPanel.Splitter" value="0.508658" />
+    <property name="RiderUnitTestPanelSplitter.Horizontal" value="0.5" />
+    <property name="SettingsSearchHistory" value="summary&#10;xml&#10;internal&#10;if&#10;empty" />
+    <property name="Tutorials.1" value="true" />
+    <property name="UITheme.relaunch" value="true" />
+    <property name="appcds.runOnSecondStart" value="RD-201.7846.1-a40af0ee0135e84cdf2506375d4a6d80459e929533f3becd2ed87c52cb5b4750" />
+    <property name="ask.about.ctrl.y.shortcut" value="true" />
+    <property name="com.jetbrains.rider.afterInstall.statsReportedBuilds" value="RD-201.6668.197&#10;RD-201.6668.201&#10;RD-201.7223.10&#10;RD-201.7846.1" />
+    <property name="debugger.smart.chooser.counter" value="3" />
+    <property name="evlsprt3.201" value="12" />
+    <property name="file.gist.reindex.count" value="135" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="ignoreUltimateEdition" value="true" />
+    <property name="last_open_file_path" value="D:/SourceCode/fukesi/AFPsystem_Wave" />
+    <property name="last_open_solution_path" value="D:/SourceCode/fukesi/AFPsystem_Wave" />
+    <property name="last_selected_template" value="ASP.NET Core Web Application|.NET Core" />
+    <property name="last_selected_template_parameters" value="TargetFrameworkOverride=net472;Type=Web API;Language=C#;Auth=None;Framework=netcoreapp5.0;" />
+    <property name="selected.color.option.type" value="ReSharper.CSHARP_EXTENSION_METHOD_IDENTIFIER" />
+    <property name="settings.code.style.selected.tab.C#" value="Naming" />
+    <property name="settings.code.style.selected.tab.VB" value="Spaces" />
+    <property name="settings.code.style.selected.tab.XML" value="Tabs and Indents" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+  </component>
+</application>

@@ -1,0 +1,26 @@
+<scheme name="_@user_Visual Studio Light" version="142" parent_scheme="Visual Studio Light">
+  <metaInfo>
+    <property name="created">2020-04-29T11:56:53</property>
+    <property name="ide">Rider</property>
+    <property name="ideVersion">2020.1.0.0.0</property>
+    <property name="modified">2020-04-30T14:22:00</property>
+    <property name="originalScheme">Visual Studio Light</property>
+  </metaInfo>
+  <attributes>
+    <option name="ReSharper.CSHARP_METHOD_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="74531f" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_PREPROCESSOR_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="a9a9a9" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_STATIC_METHOD_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="74531f" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
