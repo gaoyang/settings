@@ -31,13 +31,13 @@
     <property name="com.jetbrains.rider.afterInstall.statsReportedBuilds" value="RD-201.6668.197&#10;RD-201.6668.201&#10;RD-201.7223.10&#10;RD-201.7846.1" />
     <property name="debugger.smart.chooser.counter" value="3" />
     <property name="evlsprt3.201" value="12" />
-    <property name="file.gist.reindex.count" value="135" />
+    <property name="file.gist.reindex.count" value="143" />
     <property name="fileTypeChangedCounter" value="2" />
     <property name="ignoreUltimateEdition" value="true" />
     <property name="last_open_file_path" value="D:/SourceCode/fukesi/AFPsystem_Wave" />
     <property name="last_open_solution_path" value="D:/SourceCode/fukesi/AFPsystem_Wave" />
     <property name="last_selected_template" value="ASP.NET Core Web Application|.NET Core" />
-    <property name="last_selected_template_parameters" value="TargetFrameworkOverride=net472;Type=Web API;Language=C#;Auth=None;Framework=netcoreapp5.0;" />
+    <property name="last_selected_template_parameters" value="TargetFrameworkOverride=net472;Type=Web App;Language=C#;Auth=None;Framework=netcoreapp5.0;" />
     <property name="selected.color.option.type" value="ReSharper.CSHARP_EXTENSION_METHOD_IDENTIFIER" />
     <property name="settings.code.style.selected.tab.C#" value="Naming" />
     <property name="settings.code.style.selected.tab.VB" value="Spaces" />
