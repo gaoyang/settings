@@ -23,7 +23,7 @@
     <property name="Rider.Pin.Item.Was.Executed" value="true" />
     <property name="RiderNuGetManagementPanel.Splitter" value="0.508658" />
     <property name="RiderUnitTestPanelSplitter.Horizontal" value="0.5" />
-    <property name="SettingsSearchHistory" value="summary&#10;xml&#10;internal&#10;if&#10;empty" />
+    <property name="SettingsSearchHistory" value="member&#10;new&#10;summary&#10;xml&#10;internal" />
     <property name="Tutorials.1" value="true" />
     <property name="UITheme.relaunch" value="true" />
     <property name="appcds.runOnSecondStart" value="RD-201.7846.1-a40af0ee0135e84cdf2506375d4a6d80459e929533f3becd2ed87c52cb5b4750" />
@@ -31,15 +31,15 @@
     <property name="com.jetbrains.rider.afterInstall.statsReportedBuilds" value="RD-201.6668.197&#10;RD-201.6668.201&#10;RD-201.7223.10&#10;RD-201.7846.1" />
     <property name="debugger.smart.chooser.counter" value="3" />
     <property name="evlsprt3.201" value="12" />
-    <property name="file.gist.reindex.count" value="143" />
+    <property name="file.gist.reindex.count" value="155" />
     <property name="fileTypeChangedCounter" value="2" />
     <property name="ignoreUltimateEdition" value="true" />
     <property name="last_open_file_path" value="D:/SourceCode/fukesi/AFPsystem_Wave" />
     <property name="last_open_solution_path" value="D:/SourceCode/fukesi/AFPsystem_Wave" />
-    <property name="last_selected_template" value="ASP.NET Core Web Application|.NET Core" />
+    <property name="last_selected_template" value="Class Library|.NET Core" />
     <property name="last_selected_template_parameters" value="TargetFrameworkOverride=net472;Type=Web App;Language=C#;Auth=None;Framework=netcoreapp5.0;" />
     <property name="selected.color.option.type" value="ReSharper.CSHARP_EXTENSION_METHOD_IDENTIFIER" />
-    <property name="settings.code.style.selected.tab.C#" value="Naming" />
+    <property name="settings.code.style.selected.tab.C#" value="Line Breaks and Wrapping" />
     <property name="settings.code.style.selected.tab.VB" value="Spaces" />
     <property name="settings.code.style.selected.tab.XML" value="Tabs and Indents" />
     <property name="toolwindow.stripes.buttons.info.shown" value="true" />
