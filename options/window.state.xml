@@ -1,47 +1,47 @@
 <application>
   <component name="DimensionService">
     <location key="find.popup.0.0.1920.1080" x="632" y="257" />
-    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1860" height="294" />
-    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1860" height="294" />
-    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1860" height="294" />
-    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1860" height="294" />
-    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1860" height="294" />
-    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1860" height="294" />
-    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1860" height="294" />
-    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1860" height="294" />
-    <size key="GridCell.Tab.2.left.0.0.1920.1080" width="1860" height="294" />
-    <size key="GridCell.Tab.2.center.0.0.1920.1080" width="1860" height="294" />
-    <size key="GridCell.Tab.2.right.0.0.1920.1080" width="1860" height="294" />
-    <size key="GridCell.Tab.2.bottom.0.0.1920.1080" width="1860" height="294" />
-    <size key="GridCell.Tab.3.left.0.0.1920.1080" width="1860" height="294" />
-    <size key="GridCell.Tab.3.center.0.0.1920.1080" width="1860" height="294" />
-    <size key="GridCell.Tab.3.right.0.0.1920.1080" width="1860" height="294" />
-    <size key="GridCell.Tab.3.bottom.0.0.1920.1080" width="1860" height="294" />
-    <size key="GridCell.Tab.4.left.0.0.1920.1080" width="1860" height="294" />
-    <size key="GridCell.Tab.4.center.0.0.1920.1080" width="1860" height="294" />
-    <size key="GridCell.Tab.4.right.0.0.1920.1080" width="1860" height="294" />
-    <size key="GridCell.Tab.4.bottom.0.0.1920.1080" width="1860" height="294" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1877" height="154" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1877" height="154" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1877" height="154" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1877" height="154" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1877" height="154" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1877" height="154" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1877" height="154" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1877" height="154" />
+    <size key="GridCell.Tab.2.left.0.0.1920.1080" width="1877" height="154" />
+    <size key="GridCell.Tab.2.center.0.0.1920.1080" width="1877" height="154" />
+    <size key="GridCell.Tab.2.right.0.0.1920.1080" width="1877" height="154" />
+    <size key="GridCell.Tab.2.bottom.0.0.1920.1080" width="1877" height="154" />
+    <size key="GridCell.Tab.3.left.0.0.1920.1080" width="1877" height="154" />
+    <size key="GridCell.Tab.3.center.0.0.1920.1080" width="1877" height="154" />
+    <size key="GridCell.Tab.3.right.0.0.1920.1080" width="1877" height="154" />
+    <size key="GridCell.Tab.3.bottom.0.0.1920.1080" width="1877" height="154" />
+    <size key="GridCell.Tab.4.left.0.0.1920.1080" width="1877" height="154" />
+    <size key="GridCell.Tab.4.center.0.0.1920.1080" width="1877" height="154" />
+    <size key="GridCell.Tab.4.right.0.0.1920.1080" width="1877" height="154" />
+    <size key="GridCell.Tab.4.bottom.0.0.1920.1080" width="1877" height="154" />
     <size key="find.popup.0.0.1920.1080" width="656" height="536" />
-    <size key="GridCell.Tab.0.left.0.-1080.1920.1080" width="1877" height="124" />
-    <size key="GridCell.Tab.0.center.0.-1080.1920.1080" width="1877" height="124" />
-    <size key="GridCell.Tab.0.right.0.-1080.1920.1080" width="1877" height="124" />
-    <size key="GridCell.Tab.0.bottom.0.-1080.1920.1080" width="1877" height="124" />
-    <size key="GridCell.Tab.1.left.0.-1080.1920.1080" width="1877" height="124" />
-    <size key="GridCell.Tab.1.center.0.-1080.1920.1080" width="1877" height="124" />
-    <size key="GridCell.Tab.1.right.0.-1080.1920.1080" width="1877" height="124" />
-    <size key="GridCell.Tab.1.bottom.0.-1080.1920.1080" width="1877" height="124" />
-    <size key="GridCell.Tab.2.left.0.-1080.1920.1080" width="1877" height="124" />
-    <size key="GridCell.Tab.2.center.0.-1080.1920.1080" width="1877" height="124" />
-    <size key="GridCell.Tab.2.right.0.-1080.1920.1080" width="1877" height="124" />
-    <size key="GridCell.Tab.2.bottom.0.-1080.1920.1080" width="1877" height="124" />
-    <size key="GridCell.Tab.3.left.0.-1080.1920.1080" width="1877" height="124" />
-    <size key="GridCell.Tab.3.center.0.-1080.1920.1080" width="1877" height="124" />
-    <size key="GridCell.Tab.3.right.0.-1080.1920.1080" width="1877" height="124" />
-    <size key="GridCell.Tab.3.bottom.0.-1080.1920.1080" width="1877" height="124" />
-    <size key="GridCell.Tab.4.left.0.-1080.1920.1080" width="1877" height="124" />
-    <size key="GridCell.Tab.4.center.0.-1080.1920.1080" width="1877" height="124" />
-    <size key="GridCell.Tab.4.right.0.-1080.1920.1080" width="1877" height="124" />
-    <size key="GridCell.Tab.4.bottom.0.-1080.1920.1080" width="1877" height="124" />
+    <size key="GridCell.Tab.0.left.0.-1080.1920.1080" width="1892" height="246" />
+    <size key="GridCell.Tab.0.center.0.-1080.1920.1080" width="1892" height="246" />
+    <size key="GridCell.Tab.0.right.0.-1080.1920.1080" width="1892" height="246" />
+    <size key="GridCell.Tab.0.bottom.0.-1080.1920.1080" width="1892" height="246" />
+    <size key="GridCell.Tab.1.left.0.-1080.1920.1080" width="1892" height="246" />
+    <size key="GridCell.Tab.1.center.0.-1080.1920.1080" width="1892" height="246" />
+    <size key="GridCell.Tab.1.right.0.-1080.1920.1080" width="1892" height="246" />
+    <size key="GridCell.Tab.1.bottom.0.-1080.1920.1080" width="1892" height="246" />
+    <size key="GridCell.Tab.2.left.0.-1080.1920.1080" width="1892" height="246" />
+    <size key="GridCell.Tab.2.center.0.-1080.1920.1080" width="1892" height="246" />
+    <size key="GridCell.Tab.2.right.0.-1080.1920.1080" width="1892" height="246" />
+    <size key="GridCell.Tab.2.bottom.0.-1080.1920.1080" width="1892" height="246" />
+    <size key="GridCell.Tab.3.left.0.-1080.1920.1080" width="1892" height="246" />
+    <size key="GridCell.Tab.3.center.0.-1080.1920.1080" width="1892" height="246" />
+    <size key="GridCell.Tab.3.right.0.-1080.1920.1080" width="1892" height="246" />
+    <size key="GridCell.Tab.3.bottom.0.-1080.1920.1080" width="1892" height="246" />
+    <size key="GridCell.Tab.4.left.0.-1080.1920.1080" width="1892" height="246" />
+    <size key="GridCell.Tab.4.center.0.-1080.1920.1080" width="1892" height="246" />
+    <size key="GridCell.Tab.4.right.0.-1080.1920.1080" width="1892" height="246" />
+    <size key="GridCell.Tab.4.bottom.0.-1080.1920.1080" width="1892" height="246" />
     <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="2347" height="107" />
     <size key="GridCell.Tab.0.center.0.0.1920.1080@120dpi" width="2347" height="107" />
     <size key="GridCell.Tab.0.right.0.0.1920.1080@120dpi" width="2347" height="107" />
@@ -64,7 +64,7 @@
     <size key="GridCell.Tab.4.bottom.0.0.1920.1080@120dpi" width="2347" height="107" />
   </component>
   <component name="WindowManager">
-    <frame x="0" y="0" width="1920" height="1050" />
+    <frame x="0" y="0" width="1920" height="1050" extendedState="6" />
     <layout>
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
