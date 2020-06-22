@@ -26,11 +26,13 @@
     <property name="SettingsSearchHistory" value="for&#10;foreach&#10;Keep&#10;method&#10;if" />
     <property name="Tutorials.1" value="true" />
     <property name="UITheme.relaunch" value="true" />
-    <property name="appcds.runOnSecondStart" value="RD-201.7846.1-a40af0ee0135e84cdf2506375d4a6d80459e929533f3becd2ed87c52cb5b4750" />
+    <property name="appcds.runOnSecondStart" value="RD-202.5428.8-dd8b38d7abaed9d99b4e092545fec44880459769b6f83816db917fa72e461058" />
     <property name="ask.about.ctrl.y.shortcut" value="true" />
-    <property name="com.jetbrains.rider.afterInstall.statsReportedBuilds" value="RD-201.6668.197&#10;RD-201.6668.201&#10;RD-201.7223.10&#10;RD-201.7846.1" />
+    <property name="com.jetbrains.rider.afterInstall.statsReportedBuilds" value="RD-201.6668.197&#10;RD-201.6668.201&#10;RD-201.7223.10&#10;RD-201.7846.1&#10;RD-202.5428.8" />
     <property name="debugger.smart.chooser.counter" value="3" />
     <property name="evlsprt3.201" value="12" />
+    <property name="evlsprt3.RD-202.5428.8" value="19" />
+    <property name="file.chooser.recent.files" value="D:/" />
     <property name="file.gist.reindex.count" value="172" />
     <property name="fileTypeChangedCounter" value="2" />
     <property name="ignoreUltimateEdition" value="true" />

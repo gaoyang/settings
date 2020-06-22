@@ -6,12 +6,5 @@
     <general>
       <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
     </general>
-    <debuggers>
-      <debugger id="dotnet_debugger">
-        <configuration>
-          <option name="enableExternalSourceDebug" value="false" />
-        </configuration>
-      </debugger>
-    </debuggers>
   </component>
 </application>

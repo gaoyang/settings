@@ -29,5 +29,6 @@
     <entry key="ide.scratch.in.project.view" value="false" />
     <entry key="light.edit.file.open.enabled" value="false" />
     <entry key="ide.suppress.double.click.handler" value="true" />
+    <entry key="rdclient.asyncActions" value="false" />
   </component>
 </application>
