@@ -1,28 +1,28 @@
 <application>
   <component name="DimensionService">
-    <location key="find.popup.0.0.1920.1080" x="632" y="257" />
+    <location key="find.popup.0.0.1920.1080" x="613" y="257" />
     <location key="find.popup.0.0.3840.2160@144dpi" x="2162" y="513" />
-    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1877" height="120" />
-    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1877" height="120" />
-    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1877" height="120" />
-    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1877" height="120" />
-    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1877" height="120" />
-    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1877" height="120" />
-    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1877" height="120" />
-    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1877" height="120" />
-    <size key="GridCell.Tab.2.left.0.0.1920.1080" width="1877" height="120" />
-    <size key="GridCell.Tab.2.center.0.0.1920.1080" width="1877" height="120" />
-    <size key="GridCell.Tab.2.right.0.0.1920.1080" width="1877" height="120" />
-    <size key="GridCell.Tab.2.bottom.0.0.1920.1080" width="1877" height="120" />
-    <size key="GridCell.Tab.3.left.0.0.1920.1080" width="1877" height="120" />
-    <size key="GridCell.Tab.3.center.0.0.1920.1080" width="1877" height="120" />
-    <size key="GridCell.Tab.3.right.0.0.1920.1080" width="1877" height="120" />
-    <size key="GridCell.Tab.3.bottom.0.0.1920.1080" width="1877" height="120" />
-    <size key="GridCell.Tab.4.left.0.0.1920.1080" width="1877" height="120" />
-    <size key="GridCell.Tab.4.center.0.0.1920.1080" width="1877" height="120" />
-    <size key="GridCell.Tab.4.right.0.0.1920.1080" width="1877" height="120" />
-    <size key="GridCell.Tab.4.bottom.0.0.1920.1080" width="1877" height="120" />
-    <size key="find.popup.0.0.1920.1080" width="656" height="536" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1877" height="144" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1877" height="144" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1877" height="144" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1877" height="144" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1877" height="144" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1877" height="144" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1877" height="144" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1877" height="144" />
+    <size key="GridCell.Tab.2.left.0.0.1920.1080" width="1877" height="144" />
+    <size key="GridCell.Tab.2.center.0.0.1920.1080" width="1877" height="144" />
+    <size key="GridCell.Tab.2.right.0.0.1920.1080" width="1877" height="144" />
+    <size key="GridCell.Tab.2.bottom.0.0.1920.1080" width="1877" height="144" />
+    <size key="GridCell.Tab.3.left.0.0.1920.1080" width="1877" height="144" />
+    <size key="GridCell.Tab.3.center.0.0.1920.1080" width="1877" height="144" />
+    <size key="GridCell.Tab.3.right.0.0.1920.1080" width="1877" height="144" />
+    <size key="GridCell.Tab.3.bottom.0.0.1920.1080" width="1877" height="144" />
+    <size key="GridCell.Tab.4.left.0.0.1920.1080" width="1877" height="144" />
+    <size key="GridCell.Tab.4.center.0.0.1920.1080" width="1877" height="144" />
+    <size key="GridCell.Tab.4.right.0.0.1920.1080" width="1877" height="144" />
+    <size key="GridCell.Tab.4.bottom.0.0.1920.1080" width="1877" height="144" />
+    <size key="find.popup.0.0.1920.1080" width="693" height="536" />
     <size key="GridCell.Tab.0.left.0.-1080.1920.1080" width="1892" height="246" />
     <size key="GridCell.Tab.0.center.0.-1080.1920.1080" width="1892" height="246" />
     <size key="GridCell.Tab.0.right.0.-1080.1920.1080" width="1892" height="246" />
@@ -86,7 +86,7 @@
     <size key="find.popup.0.0.3840.2160@144dpi" width="1314" height="1206" />
   </component>
   <component name="WindowManager">
-    <frame x="510" y="489" width="2721" height="1361" extendedState="6" />
+    <frame x="18" y="84" width="1920" height="1050" extendedState="6" />
     <layout>
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
@@ -115,10 +115,11 @@
     </state>
     <state x="598" y="75" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1050" timestamp="1590421710475" />
     <state x="699" y="158" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1050/0.-1080.1920.1080" timestamp="1588990745591" />
-    <state x="962" y="433" key="WELCOME_SCREEN" timestamp="1592554707507">
+    <state x="962" y="432" key="WELCOME_SCREEN" timestamp="1592791264459">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="962" y="433" key="WELCOME_SCREEN/0.0.1920.1050" timestamp="1590906853799" />
+    <state x="962" y="432" key="WELCOME_SCREEN/0.0.1920.1050/0.-1080.1920.1050" timestamp="1592791264459" />
     <state x="962" y="433" key="WELCOME_SCREEN/0.0.1920.1050/0.-1080.1920.1080" timestamp="1592554707507" />
   </component>
 </application>
