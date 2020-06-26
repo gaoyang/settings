@@ -1,6 +1,5 @@
 AngularJS
 CVS
-Docker
 HtmlTools
 JSIntentionPowerPack
 JavaScript
@@ -33,10 +32,8 @@ com.jetbrains.dotTrace
 com.jetbrains.dpa
 com.jetbrains.performancePlugin
 com.jetbrains.plugins.jade
-com.jetbrains.plugins.webDeployment
 com.jetbrains.plugins.yeoman
 com.jetbrains.rider.fsharp
-com.jetbrains.rider.publish.webDeploy
 com.microsoft.vso.idea
 cucumber-javascript
 gherkin

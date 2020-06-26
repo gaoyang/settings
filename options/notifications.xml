@@ -1,5 +1,5 @@
 <application>
-  <component name="NotificationConfiguration" showBalloons="false" systemNotifications="false">
+  <component name="NotificationConfiguration" systemNotifications="false">
     <notification groupId="ASP.NET Core Certificate Notifications" shouldLog="false" />
     <notification groupId="Automatic indent detection" displayType="STICKY_BALLOON" shouldLog="false" />
     <notification groupId="Build Messages" displayType="TOOL_WINDOW" shouldLog="false" />
