@@ -7,9 +7,9 @@
     <property name="FileTemplates.SelectedTemplate" value="HTML File" />
     <property name="GuidGeneratorDialog.Format" value="0" />
     <property name="GuidGeneratorDialog.Uppercase" value="true" />
-    <property name="InstalledPluginsSearchHistory" value="cust&#10;cu's&#10;cu&#10;ftp&#10;f't'p" />
-    <property name="KEYMAP" value="find&#10;add se&#10;Next&#10;same&#10;code cl" />
-    <property name="MarketplacePluginsSearchHistory" value="api temp&#10;api tem&#10;api&#10;web api&#10;web" />
+    <property name="InstalledPluginsSearchHistory" value="grpc&#10;acc&#10;ac&#10;a&#10;ass" />
+    <property name="KEYMAP" value="recent&#10;find&#10;add se&#10;Next&#10;same" />
+    <property name="MarketplacePluginsSearchHistory" value="proto&#10;p'ro&#10;p'r&#10;p&#10;rpc" />
     <property name="Non.Modal.Commit.Single.Click2" value="true" />
     <property name="Non.Modal.Commit4" value="true" />
     <property name="NonModalCommitCustomization.IsApplied" value="true" />
@@ -26,23 +26,25 @@
     <property name="SettingsSearchHistory" value="pre&#10;ftp&#10;certificate&#10;for&#10;foreach" />
     <property name="Tutorials.1" value="true" />
     <property name="UITheme.relaunch" value="true" />
-    <property name="appcds.runOnSecondStart" value="RD-202.5428.8-192ee44e5e19d80a7378f960f08bed992a1b024653375315aa934a624095aa8f" />
+    <property name="appcds.runOnSecondStart" value="RD-202.5958.478-4bde6e48084f419f12a321ef5397326b0608697742377131a902a9bc1b7c24c9" />
     <property name="ask.about.ctrl.y.shortcut" value="true" />
-    <property name="com.jetbrains.rider.afterInstall.statsReportedBuilds" value="RD-201.6668.197&#10;RD-201.6668.201&#10;RD-201.7223.10&#10;RD-201.7846.1&#10;RD-202.5428.8" />
+    <property name="com.jetbrains.rider.afterInstall.statsReportedBuilds" value="RD-201.6668.197&#10;RD-201.6668.201&#10;RD-201.7223.10&#10;RD-201.7846.1&#10;RD-202.5428.8&#10;RD-202.5958.478" />
     <property name="debugger.smart.chooser.counter" value="3" />
     <property name="diagnostics.netsdk5.notification.dontshow" value="true" />
     <property name="evlsprt.RD-202.5428.8" value="173630fbb50" />
     <property name="evlsprt2.RD-202.5428.8" value="17301378b72" />
     <property name="evlsprt3.201" value="12" />
     <property name="evlsprt3.RD-202.5428.8" value="19" />
+    <property name="evlsprt3.RD-202.5958.478" value="12" />
+    <property name="experimentalFeature.problems.view.enabled" value="false" />
     <property name="file.chooser.recent.files" value="D:/" />
-    <property name="file.gist.reindex.count" value="190" />
+    <property name="file.gist.reindex.count" value="204" />
     <property name="fileTypeChangedCounter" value="2" />
     <property name="ignoreUltimateEdition" value="true" />
     <property name="last_open_file_path" value="D:/SourceCode/fukesi/AFPsystem_Wave" />
     <property name="last_open_solution_path" value="D:/SourceCode/fukesi/AFPsystem_Wave" />
-    <property name="last_selected_template" value="Class Library|.NET Core" />
-    <property name="last_selected_template_parameters" value="TargetFrameworkOverride=net472;Type=Web API;Language=C#;Auth=None;Framework=netcoreapp5.0;" />
+    <property name="last_selected_template" value="Console Application|.NET Core" />
+    <property name="last_selected_template_parameters" value="TargetFrameworkOverride=net5.0;Type=Blazor Server App;Language=C#;Auth=None;Framework=net5.0;" />
     <property name="selected.color.option.type" value="ReSharper.CSHARP_EXTENSION_METHOD_IDENTIFIER" />
     <property name="settings.code.style.selected.tab.C#" value="Line Breaks and Wrapping" />
     <property name="settings.code.style.selected.tab.VB" value="Spaces" />
