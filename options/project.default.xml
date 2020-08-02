@@ -1,7 +1,13 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
+      <component name="AutoImportSettings">
+        <option name="autoReloadType" value="SELECTIVE" />
+      </component>
       <component name="Encoding" addBOMForNewFiles="with BOM under Windows, with no BOM otherwise" />
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="SolutionBuilderGeneralOptionsPageId" />
+      </component>
     </defaultProject>
   </component>
 </application>

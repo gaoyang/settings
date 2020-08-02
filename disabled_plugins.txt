@@ -38,9 +38,11 @@ com.microsoft.vso.idea
 cucumber-javascript
 gherkin
 hg4idea
+mobi.hsz.idea.gitignore
 org.coffeescript
 org.editorconfig.editorconfigjetbrains
 org.intellij.intelliLang
+org.intellij.plugins.markdown
 org.jetbrains.plugins.github
 org.jetbrains.plugins.less
 org.jetbrains.plugins.node-remote-interpreter
