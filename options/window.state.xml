@@ -1,7 +1,7 @@
 <application>
   <component name="DimensionService">
     <location key="find.popup.0.0.1920.1080" x="531" y="257" />
-    <location key="find.popup.0.0.3840.2160@144dpi" x="1425" y="656" />
+    <location key="find.popup.0.0.3840.2160@144dpi" x="1143" y="321" />
     <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1877" height="211" />
     <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1877" height="211" />
     <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1877" height="211" />
@@ -83,7 +83,7 @@
     <size key="GridCell.Tab.4.center.0.0.3840.2160@144dpi" width="2589" height="378" />
     <size key="GridCell.Tab.4.right.0.0.3840.2160@144dpi" width="2589" height="378" />
     <size key="GridCell.Tab.4.bottom.0.0.3840.2160@144dpi" width="2589" height="378" />
-    <size key="find.popup.0.0.3840.2160@144dpi" width="990" height="804" />
+    <size key="find.popup.0.0.3840.2160@144dpi" width="2319" height="1457" />
     <size key="GridCell.Tab.0.left.938.2160.1920.1080" width="1877" height="264" />
     <size key="GridCell.Tab.0.center.938.2160.1920.1080" width="1877" height="264" />
     <size key="GridCell.Tab.0.right.938.2160.1920.1080" width="1877" height="264" />
@@ -94,7 +94,7 @@
     <size key="GridCell.Tab.1.bottom.938.2160.1920.1080" width="1877" height="264" />
   </component>
   <component name="WindowManager">
-    <frame x="286" y="49" width="2676" height="1548" />
+    <frame x="-8" y="-8" width="1936" height="1066" extendedState="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -128,12 +128,12 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="464" y="77" key="SettingsEditor/0.0.1920.1050/0.-1080.1920.1050" timestamp="1596075204090" />
-    <state x="963" y="432" key="WELCOME_SCREEN" timestamp="1596075205625">
+    <state x="963" y="432" key="WELCOME_SCREEN" timestamp="1596509436200">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="1281" y="552" key="WELCOME_SCREEN/-1920.1432.1920.1034/0.0.2560.1409" timestamp="1593790834841" />
     <state x="962" y="433" key="WELCOME_SCREEN/0.0.1920.1050" timestamp="1590906853799" />
-    <state x="963" y="432" key="WELCOME_SCREEN/0.0.1920.1050/0.-1080.1920.1050" timestamp="1596075205625" />
+    <state x="963" y="432" key="WELCOME_SCREEN/0.0.1920.1050/0.-1080.1920.1050" timestamp="1596509436200" />
     <state x="962" y="433" key="WELCOME_SCREEN/0.0.1920.1050/0.-1080.1920.1080" timestamp="1592554707507" />
   </component>
 </application>

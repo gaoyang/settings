@@ -29,7 +29,7 @@
     <property name="SettingsSearchHistory" value="markd&#10;Enable external source debug&#10;pre&#10;ftp&#10;certificate" />
     <property name="Tutorials.1" value="true" />
     <property name="UITheme.relaunch" value="true" />
-    <property name="appcds.runOnSecondStart" value="RD-202.6397.19-4b9c8ea65b1e2a25e9de89b5fa65b54e3080806b5de681e09d4ed7956e482c70" />
+    <property name="appcds.runOnSecondStart" value="RD-202.6397.19-56220c602311948cb1ea6b2b44ddcbe52a9e8791e7e63de42d1a073b6cb27616" />
     <property name="ask.about.ctrl.y.shortcut" value="true" />
     <property name="com.jetbrains.rider.afterInstall.statsReportedBuilds" value="RD-201.6668.197&#10;RD-201.6668.201&#10;RD-201.7223.10&#10;RD-201.7846.1&#10;RD-202.5428.8&#10;RD-202.5958.478&#10;RD-202.6250.18&#10;RD-202.6397.19" />
     <property name="debugger.smart.chooser.counter" value="3" />
@@ -43,13 +43,13 @@
     <property name="evlsprt3.RD-202.6397.19" value="18" />
     <property name="experimentalFeature.problems.view.enabled" value="false" />
     <property name="file.chooser.recent.files" value="D:/" />
-    <property name="file.gist.reindex.count" value="246" />
+    <property name="file.gist.reindex.count" value="254" />
     <property name="fileTypeChangedCounter" value="3" />
     <property name="ignoreUltimateEdition" value="true" />
     <property name="last_open_file_path" value="D:/SourceCode/fukesi/AFPsystem_Wave" />
     <property name="last_open_solution_path" value="D:/SourceCode/fukesi/AFPsystem_Wave" />
-    <property name="last_selected_template" value="ASP.NET Core Web Application|.NET Core" />
-    <property name="last_selected_template_parameters" value="TargetFrameworkOverride=net472;Type=Web API;Language=C#;Auth=None;Framework=net5.0;" />
+    <property name="last_selected_template" value="Console Application|.NET Core" />
+    <property name="last_selected_template_parameters" value="TargetFrameworkOverride=net5.0;Type=Web API;Language=C#;Auth=None;Framework=net5.0;" />
     <property name="selected.color.option.type" value="DIFF_MODIFIED" />
     <property name="settings.code.style.selected.tab.C#" value="Line Breaks and Wrapping" />
     <property name="settings.code.style.selected.tab.VB" value="Spaces" />
