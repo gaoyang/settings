@@ -13,7 +13,6 @@
 /resharper-host/*
 !/resharper-host/GlobalSettingsStorage.DotSettings
 
-/options/keymap.xml
 /options/updates.xml
 /options/usage.statistics.xml
 /options/recentSolutions.xml
