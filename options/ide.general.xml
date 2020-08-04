@@ -1,7 +1,6 @@
 <application>
   <component name="GeneralSettings">
     <option name="confirmExit" value="false" />
-    <option name="confirmOpenNewProject2" value="0" />
     <option name="reopenLastProject" value="false" />
   </component>
   <component name="Registry">
@@ -31,5 +30,6 @@
     <entry key="light.edit.file.open.enabled" value="false" />
     <entry key="ide.suppress.double.click.handler" value="true" />
     <entry key="rdclient.asyncActions" value="false" />
+    <entry key="ide.borderless.title.version" value="false" />
   </component>
 </application>
