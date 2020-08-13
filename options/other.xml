@@ -7,50 +7,55 @@
     <property name="FileTemplates.SelectedTemplate" value="HTML File" />
     <property name="GuidGeneratorDialog.Format" value="0" />
     <property name="GuidGeneratorDialog.Uppercase" value="true" />
-    <property name="InstalledPluginsSearchHistory" value="sonar&#10;son&#10;so&#10;S&#10;F" />
-    <property name="KEYMAP" value="recent&#10;find&#10;add se&#10;Next&#10;same" />
+    <property name="InstalledPluginsSearchHistory" value="save&#10;sav&#10;sa&#10;command&#10;format" />
+    <property name="KEYMAP" value="form&#10;format&#10;recent&#10;find&#10;add se" />
     <property name="LayoutCode.optimizeImports" value="false" />
     <property name="LayoutCode.rearrangeEntriesJSON" value="false" />
-    <property name="MarketplacePluginsSearchHistory" value="color&#10;c&#10;dark&#10;dar&#10;sonar" />
+    <property name="LayoutCode.rearrangeEntriesMSBuild" value="false" />
+    <property name="MarketplacePluginsSearchHistory" value="code tool&#10;code&#10;codetools&#10;actions&#10;ac" />
     <property name="Non.Modal.Commit.Single.Click2" value="true" />
     <property name="Non.Modal.Commit4" value="true" />
     <property name="NonModalCommitCustomization.IsApplied" value="true" />
-    <property name="PluginConfigurable.selectionTab" value="1" />
     <property name="RD.Init.Cfg.2" value="true" />
     <property name="RD.Init.DialogShown.Ide" value="true" />
     <property name="RD.Light.Edit.Disabled" value="true" />
     <property name="RD.Switch.Laf" value="true" />
     <property name="RESTClient.httpMethod" value="GET&#10;POST&#10;PUT&#10;PATCH&#10;DELETE&#10;HEAD&#10;OPTIONS" />
-    <property name="RegistryRecentKeys" value="ide.suppress.double.click.handler" />
+    <property name="RegistryRecentKeys" value="caches.indexerThreadsCount=ide.suppress.double.click.handler" />
     <property name="Rider.Pin.Item.Was.Executed" value="true" />
     <property name="RiderNuGetManagementPanel.Splitter" value="0.508658" />
     <property name="RiderNuGetViewSettings.contextPopupShortcutIsLearned" value="true" />
     <property name="RiderUnitTestPanelSplitter.Horizontal" value="0.5" />
-    <property name="SettingsSearchHistory" value="markd&#10;Enable external source debug&#10;pre&#10;ftp&#10;certificate" />
+    <property name="SettingsSearchHistory" value="console encodin&#10;c# Interactive&#10;save&#10;markd&#10;Enable external source debug" />
     <property name="Tutorials.1" value="true" />
     <property name="UITheme.relaunch" value="true" />
-    <property name="appcds.runOnSecondStart" value="RD-202.6397.19-56220c602311948cb1ea6b2b44ddcbe52a9e8791e7e63de42d1a073b6cb27616" />
+    <property name="appcds.runOnSecondStart" value="RD-202.6397.226-044d66e22c3c1135b12fa6fe095ede0f33bdbabb40d28a240b294ba66c7977cc" />
     <property name="ask.about.ctrl.y.shortcut" value="true" />
-    <property name="com.jetbrains.rider.afterInstall.statsReportedBuilds" value="RD-201.6668.197&#10;RD-201.6668.201&#10;RD-201.7223.10&#10;RD-201.7846.1&#10;RD-202.5428.8&#10;RD-202.5958.478&#10;RD-202.6250.18&#10;RD-202.6397.19" />
+    <property name="com.jetbrains.rider.afterInstall.statsReportedBuilds" value="RD-201.6668.197&#10;RD-201.6668.201&#10;RD-201.7223.10&#10;RD-201.7846.1&#10;RD-202.5428.8&#10;RD-202.5958.478&#10;RD-202.6250.18&#10;RD-202.6397.19&#10;RD-202.6397.226" />
     <property name="debugger.smart.chooser.counter" value="3" />
     <property name="diagnostics.netsdk5.notification.dontshow" value="true" />
     <property name="evlsprt.RD-202.5428.8" value="173630fbb50" />
+    <property name="evlsprt.RD-202.6397.19" value="17418463c99" />
     <property name="evlsprt2.RD-202.5428.8" value="17301378b72" />
+    <property name="evlsprt2.RD-202.6397.19" value="173bcb92a30" />
     <property name="evlsprt3.201" value="12" />
     <property name="evlsprt3.RD-202.5428.8" value="19" />
     <property name="evlsprt3.RD-202.5958.478" value="12" />
     <property name="evlsprt3.RD-202.6250.18" value="17" />
     <property name="evlsprt3.RD-202.6397.19" value="18" />
+    <property name="evlsprt3.RD-202.6397.226" value="11" />
     <property name="experimentalFeature.problems.view.enabled" value="false" />
     <property name="file.chooser.recent.files" value="D:/" />
-    <property name="file.gist.reindex.count" value="254" />
+    <property name="file.gist.reindex.count" value="291" />
     <property name="fileTypeChangedCounter" value="3" />
+    <property name="find.popup.splitter" value="0.6605351" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
     <property name="ignoreUltimateEdition" value="true" />
     <property name="last_open_file_path" value="D:/SourceCode/fukesi/AFPsystem_Wave" />
     <property name="last_open_solution_path" value="D:/SourceCode/fukesi/AFPsystem_Wave" />
-    <property name="last_selected_template" value="Console Application|.NET Core" />
-    <property name="last_selected_template_parameters" value="TargetFrameworkOverride=net5.0;Type=Web API;Language=C#;Auth=None;Framework=net5.0;" />
-    <property name="selected.color.option.type" value="DIFF_MODIFIED" />
+    <property name="last_selected_template" value="Class Library|.NET Core" />
+    <property name="last_selected_template_parameters" value="TargetFrameworkOverride=netcoreapp3.0;Type=Windows Forms (WinForms) Application;Language=C#;Auth=None;Framework=net5.0;" />
+    <property name="selected.color.option.type" value="ReSharper.CSHARP_NUMBER" />
     <property name="settings.code.style.selected.tab.C#" value="Line Breaks and Wrapping" />
     <property name="settings.code.style.selected.tab.VB" value="Spaces" />
     <property name="settings.code.style.selected.tab.XML" value="Tabs and Indents" />

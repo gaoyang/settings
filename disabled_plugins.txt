@@ -6,6 +6,7 @@ JSIntentionPowerPack
 JavaScript
 JavaScriptDebugger
 Karma
+Key promoter
 NodeJS
 PerforceDirectPlugin
 Refactor-X

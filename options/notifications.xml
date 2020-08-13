@@ -9,6 +9,7 @@
     <notification groupId="FromBackendWithoutPopup" displayType="NONE" shouldLog="false" />
     <notification groupId="IDE and Plugin Updates" displayType="STICKY_BALLOON" shouldLog="false" />
     <notification groupId="IIS Express Notifications" shouldLog="false" />
+    <notification groupId="Inspection Results" displayType="NONE" />
     <notification groupId="Missing SDKs" shouldLog="false" />
     <notification groupId="NuGet" displayType="TOOL_WINDOW" shouldLog="false" />
     <notification groupId="Pinned items notifications" displayType="TOOL_WINDOW" shouldLog="false" />
