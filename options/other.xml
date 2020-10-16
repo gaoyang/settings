@@ -5,18 +5,18 @@
     <property name="ExpandBeforeRunStepsPanel" value="true" />
     <property name="ExpandRunDashboardTypesPanel" value="false" />
     <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="FindSplitterProportion" value="0.0" />
     <property name="GuidGeneratorDialog.Format" value="0" />
     <property name="GuidGeneratorDialog.Uppercase" value="true" />
-    <property name="InstalledPluginsSearchHistory" value="core&#10;save&#10;sav&#10;sa&#10;command" />
+    <property name="InstalledPluginsSearchHistory" value="AsyncConverter&#10;Async&#10;core&#10;save&#10;sav" />
     <property name="KEYMAP" value="form&#10;format&#10;recent&#10;find&#10;add se" />
     <property name="LayoutCode.optimizeImports" value="false" />
     <property name="LayoutCode.rearrangeEntriesJSON" value="false" />
     <property name="LayoutCode.rearrangeEntriesMSBuild" value="false" />
-    <property name="MarketplacePluginsSearchHistory" value="code tool&#10;code&#10;codetools&#10;actions&#10;ac" />
+    <property name="MarketplacePluginsSearchHistory" value="Converter&#10;code tool&#10;code&#10;codetools&#10;actions" />
     <property name="Non.Modal.Commit.Single.Click2" value="true" />
     <property name="Non.Modal.Commit4" value="true" />
     <property name="NonModalCommitCustomization.IsApplied" value="true" />
-    <property name="PluginConfigurable.selectionTab" value="1" />
     <property name="RD.Init.Cfg.2" value="true" />
     <property name="RD.Init.DialogShown.Ide" value="true" />
     <property name="RD.Light.Edit.Disabled" value="true" />
@@ -27,12 +27,14 @@
     <property name="RiderNuGetManagementPanel.Splitter" value="0.508658" />
     <property name="RiderNuGetViewSettings.contextPopupShortcutIsLearned" value="true" />
     <property name="RiderUnitTestPanelSplitter.Horizontal" value="0.5" />
-    <property name="SettingsSearchHistory" value="core&#10;SDK&#10;console encodin&#10;c# Interactive&#10;save" />
+    <property name="SettingsSearchHistory" value="xaml&#10;debugger&#10;exception&#10;exp&#10;core" />
     <property name="Tutorials.1" value="true" />
     <property name="UITheme.relaunch" value="true" />
-    <property name="appcds.runOnSecondStart" value="RD-202.6397.268-38f07605d9d0d2c7fca880026463de5b951b56483c8c6cc5538830a0d69111d4" />
+    <property name="appcds.runOnSecondStart" value="RD-202.7660.16-eec4c6e0930938c4e7b1d3666dcb69470f6c5d3f8e3d22fe262ecddd29b36a4d" />
     <property name="ask.about.ctrl.y.shortcut" value="true" />
-    <property name="com.jetbrains.rider.afterInstall.statsReportedBuilds" value="RD-201.6668.197&#10;RD-201.6668.201&#10;RD-201.7223.10&#10;RD-201.7846.1&#10;RD-202.5428.8&#10;RD-202.5958.478&#10;RD-202.6250.18&#10;RD-202.6397.19&#10;RD-202.6397.226&#10;RD-202.6397.244&#10;RD-202.6397.268" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.jetbrains.rider.afterInstall.statsReportedBuilds" value="RD-201.6668.197&#10;RD-201.6668.201&#10;RD-201.7223.10&#10;RD-201.7846.1&#10;RD-202.5428.8&#10;RD-202.5958.478&#10;RD-202.6250.18&#10;RD-202.6397.19&#10;RD-202.6397.226&#10;RD-202.6397.244&#10;RD-202.6397.268&#10;RD-202.6948.24&#10;RD-202.7319.2&#10;RD-202.7660.16" />
     <property name="debugger.smart.chooser.counter" value="3" />
     <property name="diagnostics.netsdk5.notification.dontshow" value="true" />
     <property name="evlsprt.RD-202.5428.8" value="173630fbb50" />
@@ -48,15 +50,15 @@
     <property name="evlsprt3.RD-202.6397.226" value="11" />
     <property name="experimentalFeature.problems.view.enabled" value="false" />
     <property name="file.chooser.recent.files" value="D:/" />
-    <property name="file.gist.reindex.count" value="348" />
-    <property name="fileTypeChangedCounter" value="3" />
-    <property name="find.popup.splitter" value="0.6605351" />
+    <property name="file.gist.reindex.count" value="485" />
+    <property name="fileTypeChangedCounter" value="6" />
+    <property name="find.popup.splitter" value="0.28370786" />
     <property name="ignore.virus.scanning.warn.message" value="true" />
     <property name="ignoreUltimateEdition" value="true" />
     <property name="last_open_file_path" value="D:/SourceCode/fukesi/AFPsystem_Wave" />
     <property name="last_open_solution_path" value="D:/SourceCode/fukesi/AFPsystem_Wave" />
-    <property name="last_selected_template" value="Class Library|.NET Core" />
-    <property name="last_selected_template_parameters" value="TargetFrameworkOverride=netcoreapp3.1;Type=NUnit;Language=C#;Auth=None;Framework=net5.0;" />
+    <property name="last_selected_template" value="Console Application|.NET Core" />
+    <property name="last_selected_template_parameters" value="TargetFrameworkOverride=netcoreapp3.1;Type=Empty;Language=C#;Auth=None;Framework=net5.0;" />
     <property name="selected.color.option.type" value="ReSharper.CSHARP_NUMBER" />
     <property name="settings.code.style.selected.tab.C#" value="Naming" />
     <property name="settings.code.style.selected.tab.VB" value="Spaces" />

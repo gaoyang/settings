@@ -3,8 +3,16 @@
     <data-views>
       <option name="valueLookupDelay" value="150" />
     </data-views>
-    <general>
-      <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
-    </general>
+    <general />
+    <debuggers>
+      <debugger id="dotnet_debugger">
+        <configuration>
+          <option name="breakOnUserUnhandledExceptions" value="true" />
+          <option name="enableExternalSourceDebug" value="false" />
+          <option name="evaluationTimeoutMs" value="10000" />
+          <option name="processExceptionsOutsideMyCode" value="true" />
+        </configuration>
+      </debugger>
+    </debuggers>
   </component>
 </application>
