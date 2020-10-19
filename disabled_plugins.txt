@@ -37,7 +37,6 @@ com.jetbrains.plugins.jade
 com.jetbrains.plugins.yeoman
 com.jetbrains.rider.fsharp
 com.microsoft.vso.idea
-com.protobuf.free.gen.plugin.GenProtobuf
 cucumber-javascript
 gherkin
 hg4idea
