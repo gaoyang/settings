@@ -26,12 +26,13 @@
     <property name="RegistryRecentKeys" value="caches.indexerThreadsCount=ide.suppress.double.click.handler" />
     <property name="Rider.Pin.Item.Was.Executed" value="true" />
     <property name="RiderNuGetManagementPanel.Splitter" value="0.508658" />
+    <property name="RiderNuGetViewSettings.Verbosity" value="1" />
     <property name="RiderNuGetViewSettings.contextPopupShortcutIsLearned" value="true" />
     <property name="RiderUnitTestPanelSplitter.Horizontal" value="0.5" />
-    <property name="SettingsSearchHistory" value="xaml&#10;debugger&#10;exception&#10;exp&#10;core" />
+    <property name="SettingsSearchHistory" value="size&#10;zoom&#10;xaml&#10;debugger&#10;exception" />
     <property name="Tutorials.1" value="true" />
     <property name="UITheme.relaunch" value="true" />
-    <property name="appcds.runOnSecondStart" value="RD-202.7660.16-63fe6540849b43f5d19b73d40f71ffb2939498f4bc3b5e9974a16cf1acb753be" />
+    <property name="appcds.runOnSecondStart" value="RD-202.7660.16-5365f4aa320ee3dcf5e3aba7b464cc633d200324799054e2df71b88f809087b5" />
     <property name="ask.about.ctrl.y.shortcut" value="true" />
     <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
     <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
@@ -51,7 +52,7 @@
     <property name="evlsprt3.RD-202.6397.226" value="11" />
     <property name="experimentalFeature.problems.view.enabled" value="false" />
     <property name="file.chooser.recent.files" value="D:/" />
-    <property name="file.gist.reindex.count" value="491" />
+    <property name="file.gist.reindex.count" value="516" />
     <property name="fileTypeChangedCounter" value="6" />
     <property name="find.popup.splitter" value="0.28370786" />
     <property name="ignore.virus.scanning.warn.message" value="true" />
@@ -59,7 +60,7 @@
     <property name="last_open_file_path" value="D:/SourceCode/fukesi/AFPsystem_Wave" />
     <property name="last_open_solution_path" value="D:/SourceCode/fukesi/AFPsystem_Wave" />
     <property name="last_selected_template" value="Console Application|.NET Core" />
-    <property name="last_selected_template_parameters" value="TargetFrameworkOverride=netcoreapp3.1;Type=Empty;Language=C#;Auth=None;Framework=net5.0;" />
+    <property name="last_selected_template_parameters" value="TargetFrameworkOverride=netcoreapp3.1;Type=Empty;Language=VB;Auth=None;Framework=net5.0;" />
     <property name="selected.color.option.type" value="ReSharper.CSHARP_NUMBER" />
     <property name="settings.code.style.selected.tab.C#" value="Naming" />
     <property name="settings.code.style.selected.tab.VB" value="Spaces" />

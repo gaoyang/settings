@@ -28,10 +28,7 @@ com.intellij.stats.completion
 com.intellij.tasks
 com.intellij.tasks.timeTracking
 com.jetbrains.changeReminder
-com.jetbrains.dotCommon
 com.jetbrains.dotCover
-com.jetbrains.dotTrace
-com.jetbrains.dpa
 com.jetbrains.performancePlugin
 com.jetbrains.plugins.jade
 com.jetbrains.plugins.yeoman

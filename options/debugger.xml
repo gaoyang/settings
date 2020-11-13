@@ -11,6 +11,13 @@
           <option name="enableExternalSourceDebug" value="false" />
           <option name="evaluationTimeoutMs" value="10000" />
           <option name="processExceptionsOutsideMyCode" value="true" />
+          <option name="userUnhandledExceptionsIgnoreList">
+            <list>
+              <option value="System.OperationCanceledException" />
+              <option value="System.Threading.ThreadAbortException" />
+              <option value="System.IO.FileNotFoundException" />
+            </list>
+          </option>
         </configuration>
       </debugger>
     </debuggers>
