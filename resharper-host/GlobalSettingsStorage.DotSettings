@@ -60,6 +60,7 @@
 	
 	
 	
+	
 	<s:Boolean x:Key="/Default/Environment/SettingsMigration/IsMigratorApplied/=JetBrains_002EReSharper_002EPsi_002ECSharp_002ECodeStyle_002ECSharpKeepExistingMigration/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/Environment/SettingsMigration/IsMigratorApplied/=JetBrains_002EReSharper_002EPsi_002ECSharp_002ECodeStyle_002ECSharpPlaceEmbeddedOnSameLineMigration/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/Environment/SettingsMigration/IsMigratorApplied/=JetBrains_002EReSharper_002EPsi_002ECSharp_002ECodeStyle_002ECSharpUseContinuousIndentInsideBracesMigration/@EntryIndexedValue">True</s:Boolean>
@@ -264,7 +265,7 @@
 	
 	
 	<s:Boolean x:Key="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue">True</s:Boolean>
-	<s:String x:Key="/Default/Housekeeping/OptionsDialog/SelectedPageId/@EntryValue">RiderNuGetOptionsPage</s:String>
+	<s:String x:Key="/Default/Housekeeping/OptionsDialog/SelectedPageId/@EntryValue">SolutionBuilderGeneralOptionsPage</s:String>
 	
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=02B3A3DB2734854FB87BEFC69A3ED8E3/EntryName/@EntryValue">Class</s:String>
 	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=02B3A3DB2734854FB87BEFC69A3ED8E3/Position/@EntryValue">6</s:Int64>
@@ -357,7 +358,7 @@ namespace $NAMESPACE$
     }
 }</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=BC6483F2D4E7654C97C21734EEE08223/UITag/@EntryValue">Class/Interface</s:String>
-	<s:String x:Key="/Default/SnapshotsStore/CurrentStore/@EntryValue">C:\Users\a7446\AppData\Roaming\JetBrains\Rider2020.2\resharper-host\Sessions</s:String>
+	<s:String x:Key="/Default/SnapshotsStore/CurrentStore/@EntryValue">C:\Users\leigaoyang\AppData\Roaming\JetBrains\Rider2020.2\resharper-host\Sessions</s:String>
 	
 	
 	

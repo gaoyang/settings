@@ -33,6 +33,6 @@
     <entry key="ide.borderless.title.version" value="false" />
     <entry key="ide.borderless.tab.caption.in.title" value="false" />
     <entry key="ide.debug.in.title" value="true" />
-    <entry key="caches.indexerThreadsCount" value="-1" />
+    <entry key="ide.balloon.shadow.size" value="0" />
   </component>
 </application>
