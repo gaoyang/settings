@@ -3,7 +3,9 @@
     <data-views>
       <option name="valueLookupDelay" value="150" />
     </data-views>
-    <general />
+    <general>
+      <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
+    </general>
     <debuggers>
       <debugger id="dotnet_debugger">
         <configuration>
@@ -11,11 +13,13 @@
           <option name="enableExternalSourceDebug" value="false" />
           <option name="evaluationTimeoutMs" value="10000" />
           <option name="processExceptionsOutsideMyCode" value="true" />
+          <option name="showDebuggerEventsInOutput" value="false" />
           <option name="userUnhandledExceptionsIgnoreList">
             <list>
               <option value="System.OperationCanceledException" />
               <option value="System.Threading.ThreadAbortException" />
               <option value="System.IO.FileNotFoundException" />
+              <option value="System.StackOverflowException" />
             </list>
           </option>
         </configuration>

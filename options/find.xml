@@ -7,5 +7,6 @@
     <option name="SEARCH_SCOPE" value="Solution" />
     <mask>*.cs</mask>
     <mask>*.csproj</mask>
+    <mask>*.proto</mask>
   </component>
 </application>

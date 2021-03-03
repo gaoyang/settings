@@ -1,3 +1,4 @@
+
 AngularJS
 CVS
 Docker
@@ -29,10 +30,10 @@ com.intellij.stats.completion
 com.intellij.tasks
 com.intellij.tasks.timeTracking
 com.jetbrains.changeReminder
-com.jetbrains.dotCover
 com.jetbrains.performancePlugin
 com.jetbrains.plugins.jade
 com.jetbrains.plugins.yeoman
+com.jetbrains.rider.diagram
 com.jetbrains.rider.fsharp
 com.microsoft.vso.idea
 cucumber-javascript

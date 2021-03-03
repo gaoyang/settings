@@ -1,4 +1,90 @@
 <application>
+  <component name="ProjectPluginTrackerManager">
+    <option name="trackers">
+      <map>
+        <entry key="1kDoTYcbUGnQITj5ED8fJp8OFEi">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1kDqhPYQg8mdXM2t9ZgG4T6l3Q5">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1kMh1HrnFSwJbSwEK2Edbcj5X4W">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1kMkbiPbQubah6SRY2W0b91nZoD">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1kMnFpzBcVRQXmqmQiJt6BNvgF6">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1kVHqUmj2fS1spwQb11eqszmfTJ">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1krg4VHUUjb4JiCTVUB0udItI1g">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1lJuc9EVqPESdXmwywvhSSmIBEn">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1lN4ScA3bqGLC5p9tSltTV8JeoJ">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1ldv7KZEsMEDilgIGhQ9cVb1cFN">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1nMQzjSDtvyuBVIzGRJObtQEYKQ">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1njUHRh3X3LDYu7gdlA0XvCmFGY">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1o0OkL7lxsA7rknEou304ccQIWy">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1o0PohDobpfBSHPDScIYad9i65e">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1o8ri1gjulIjD1WO7zxkoyFDDJ3">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1o8t3nrLAaSfNHb8v04owAlJYOt">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="PropertiesComponent">
     <property name="ColorChooser.RecentColors" value="116-83-31-255,,,169-169-169-255,,,31-55-127-255" />
     <property name="Debug.Allow.Typing" value="true" />
@@ -8,12 +94,12 @@
     <property name="FindSplitterProportion" value="0.0" />
     <property name="GuidGeneratorDialog.Format" value="0" />
     <property name="GuidGeneratorDialog.Uppercase" value="true" />
-    <property name="InstalledPluginsSearchHistory" value="auto&#10;au&#10;one&#10;o&#10;onedark" />
+    <property name="InstalledPluginsSearchHistory" value="test&#10;te&#10;util&#10;duration&#10;dur" />
     <property name="KEYMAP" value="form&#10;format&#10;recent&#10;find&#10;add se" />
     <property name="LayoutCode.optimizeImports" value="false" />
     <property name="LayoutCode.rearrangeEntriesJSON" value="false" />
     <property name="LayoutCode.rearrangeEntriesMSBuild" value="false" />
-    <property name="MarketplacePluginsSearchHistory" value="UI&#10;auto /sortBy:downloads&#10;auto&#10;auto t&#10;auto them" />
+    <property name="MarketplacePluginsSearchHistory" value="util&#10;u&#10;analyz /sortBy:downloads&#10;analyz&#10;analyze" />
     <property name="Non.Modal.Commit.Single.Click2" value="true" />
     <property name="Non.Modal.Commit4" value="true" />
     <property name="NonModalCommitCustomization.IsApplied" value="true" />
@@ -25,18 +111,22 @@
     <property name="RESTClient.httpMethod" value="GET&#10;POST&#10;PUT&#10;PATCH&#10;DELETE&#10;HEAD&#10;OPTIONS" />
     <property name="RegistryRecentKeys" value="caches.indexerThreadsCount=ide.suppress.double.click.handler" />
     <property name="Rider.Pin.Item.Was.Executed" value="true" />
-    <property name="RiderNuGetManagementPanel.Splitter" value="0.508658" />
+    <property name="RiderNuGetManagementPanel.Splitter" value="0.49080086" />
     <property name="RiderNuGetViewSettings.Verbosity" value="1" />
     <property name="RiderNuGetViewSettings.contextPopupShortcutIsLearned" value="true" />
     <property name="RiderUnitTestPanelSplitter.Horizontal" value="0.5" />
-    <property name="SettingsSearchHistory" value="Mater&#10;m&#10;au&#10;size&#10;zoom" />
+    <property name="RiderUnitTestPanelSplitter.Vertical" value="0.26518518" />
+    <property name="SettingsSearchHistory" value="dyna&#10;time&#10;dur&#10;exc&#10;TargetFrame" />
     <property name="Tutorials.1" value="true" />
+    <property name="Tutorials.In.Recent.Projects.Disabled" value="true" />
     <property name="UITheme.relaunch" value="true" />
-    <property name="appcds.runOnSecondStart" value="RD-202.7660.16-840da8f04126449f45f5edc672476abe9eda3a5d735eeb30c227749d0ab00c78" />
+    <property name="appcds.runOnSecondStart" value="RD-203.7148.23-6d98c677a24543d8325912ecce14f4224bfce796751355dfb02aa2baa0f6101d" />
     <property name="ask.about.ctrl.y.shortcut" value="true" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
     <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
     <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
-    <property name="com.jetbrains.rider.afterInstall.statsReportedBuilds" value="RD-201.6668.197&#10;RD-201.6668.201&#10;RD-201.7223.10&#10;RD-201.7846.1&#10;RD-202.5428.8&#10;RD-202.5958.478&#10;RD-202.6250.18&#10;RD-202.6397.19&#10;RD-202.6397.226&#10;RD-202.6397.244&#10;RD-202.6397.268&#10;RD-202.6948.24&#10;RD-202.7319.2&#10;RD-202.7660.16" />
+    <property name="com.jetbrains.rider.afterInstall.statsReportedBuilds" value="RD-201.6668.197&#10;RD-201.6668.201&#10;RD-201.7223.10&#10;RD-201.7846.1&#10;RD-202.5428.8&#10;RD-202.5958.478&#10;RD-202.6250.18&#10;RD-202.6397.19&#10;RD-202.6397.226&#10;RD-202.6397.244&#10;RD-202.6397.268&#10;RD-202.6948.24&#10;RD-202.7319.2&#10;RD-202.7660.16&#10;RD-203.5981.141&#10;RD-203.6682.13&#10;RD-203.6682.21&#10;RD-203.7148.23" />
+    <property name="debugger.immediate.window.in.watches.proportion.key" value="0.5418182" />
     <property name="debugger.smart.chooser.counter" value="3" />
     <property name="diagnostics.netsdk5.notification.dontshow" value="true" />
     <property name="evlsprt.RD-202.5428.8" value="173630fbb50" />
@@ -45,6 +135,7 @@
     <property name="evlsprt2.RD-202.6397.19" value="173bcb92a30" />
     <property name="evlsprt3.201" value="12" />
     <property name="evlsprt3.202" value="10" />
+    <property name="evlsprt3.203" value="17" />
     <property name="evlsprt3.RD-202.5428.8" value="19" />
     <property name="evlsprt3.RD-202.5958.478" value="12" />
     <property name="evlsprt3.RD-202.6250.18" value="17" />
@@ -52,22 +143,25 @@
     <property name="evlsprt3.RD-202.6397.226" value="11" />
     <property name="experimentalFeature.problems.view.enabled" value="false" />
     <property name="file.chooser.recent.files" value="D:/" />
-    <property name="file.gist.reindex.count" value="523" />
-    <property name="fileTypeChangedCounter" value="8" />
+    <property name="file.gist.reindex.count" value="721" />
+    <property name="fileTypeChangedCounter" value="10" />
     <property name="find.popup.splitter" value="0.28370786" />
+    <property name="ide.updates.previous.build.number" value="RD-203.7148.23" />
     <property name="idea.background.editor" value="C:\Users\leigaoyang\OneDrive\图片\wlop (1).jpg,8,scale,middle_right" />
     <property name="ignore.virus.scanning.warn.message" value="true" />
     <property name="ignoreUltimateEdition" value="true" />
     <property name="last_open_file_path" value="D:/SourceCode/fukesi/AFPsystem_Wave" />
     <property name="last_open_solution_path" value="D:/SourceCode/fukesi/AFPsystem_Wave" />
-    <property name="last_selected_template" value="Class Library|.NET Core" />
-    <property name="last_selected_template_parameters" value="TargetFrameworkOverride=net5.0;Type=Class Library;Language=C#;Auth=None;Framework=v4.6.1;" />
+    <property name="last_selected_template" value="Unit Test Project|.NET Core" />
+    <property name="last_selected_template_parameters" value="TargetFrameworkOverride=net5.0;Type=NUnit;Language=C#;Auth=None;Framework=v4.6.1;" />
     <property name="mt.showInstallAtom" value="true" />
     <property name="org.intellij.images.editor.actions.BackgroundImageDialog#recent" value="C:\Users\leigaoyang\OneDrive\图片\wlop (1).jpg&#10;C:\Users\leigaoyang\OneDrive\图片\狗.jpg" />
+    <property name="plugins.preselection.path" value="$USER_HOME$/AppData/Roaming/LanxinSoftCustom/Resource/Docs" />
     <property name="selected.color.option.type" value="GENERIC_SERVER_ERROR_OR_WARNING" />
-    <property name="settings.code.style.selected.tab.C#" value="Naming" />
+    <property name="settings.code.style.selected.tab.C#" value="Braces Layout" />
     <property name="settings.code.style.selected.tab.VB" value="Spaces" />
     <property name="settings.code.style.selected.tab.XML" value="Tabs and Indents" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
     <property name="toolwindow.stripes.buttons.info.shown" value="true" />
   </component>
 </application>
